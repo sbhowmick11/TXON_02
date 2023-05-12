@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans&family=Roboto+Mono:ital@1&display=swap');
+
+.calculator {
+padding: 9px;
+border-radius: 1.5em;
+height: 434px;
+width: 436px;
+margin: auto;
+background-color:#ad1010;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.display-box {
+
+background-color: rgb(219, 219, 219);
+border: solid black 0.5px;
+color: black;
+border-radius: 8px;
+width: 95%;
+height: 70%;
+}
+
+#btn {
+background-color: #31cd15;
+}
+
+input[type=button] {
+
+background-color: #f1f50d;
+color: black;
+border: solid black 0.5px;
+width: 100%;
+border-radius: 5px;
+height: 70%;
+outline: none;
+}
